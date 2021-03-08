@@ -210,10 +210,6 @@ result.crawler.pageData = await lib.crawler.query[&#39;@0.0.1&#39;].selectors({
 <p><strong>Please Note:</strong> With the current version of the API, you can only use <code>map</code> at the top-level of <code>selectorQueries</code>.</p>
 <h1 id="thats-it">That&#39;s it!</h1>
 <p>We hope you enjoy playing around with scraping web page data. We&#39;ll have more tutorials incoming on how you can leverage this API more successfully. In the meantime, we encourage you to keep using <a href="https://autocode.com">Autocode</a> or jump into <a data-slack-button href="#" onclick="return false;">our Slack Community</a> to say hello. Looking forward to more!</p>
-<div class="signature">
-  <div class="signature-name">Keith Horwood</div>
-  <div class="signature-title">Founder and CEO, Standard Library</div>
-</div>
 </article>
   </noscript>
 </body>
