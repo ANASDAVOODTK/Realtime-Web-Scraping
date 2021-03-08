@@ -8,7 +8,7 @@ Scrape Webpages using JS and Autocode
 <p>A quick example of the <code>crawler.query</code> API is using it to scrape the top 30 stories on Hacker News right now. To do that, use this link;</p>
 <p><a href="https://autocode.standardlibrary.com/new/?workflow=crawler%2Fquery%2Fselectors">autocode.standardlibrary.com/new/?workflow=crawler%2Fquery%2Fselectors</a></p>
 <p>This will open up an interface that looks something like this;</p>
-<p><img src="https://standardlibrary-dotcom.s3.amazonaws.com/static/blog/introducing-the-crawler-query-api-scrape-webpages-via-css/maker-mode-autocode-example.png" alt="Maker Mode Example"></p>
+<p><img src=img/img1.png alt="Maker Mode Example"></p>
 <p>This is a part of <a href="https://autocode.com/">Autocode</a> called <strong>Maker Mode</strong> and can be used to pre-generate API logic. You can edit the code at any time by clicking on the code example to the right. You can see I&#39;ve already pre-filled the following settings;</p>
 <ul>
 <li><strong>url</strong> is <code>https://news.ycombinator.com/</code></li>
