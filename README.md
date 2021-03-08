@@ -32,7 +32,7 @@ result.crawler.pageData = await lib.crawler.query[&#39;@0.0.1&#39;].selectors({
   ]
 });</code></pre>
 <p>This can now be run by hitting <strong>Run Code</strong> in the bottom right. As of writing this, the Hacker News Front Page looks like this:</p>
-<p><img src="https://standardlibrary-dotcom.s3.amazonaws.com/static/blog/introducing-the-crawler-query-api-scrape-webpages-via-css/hn-top-5.png" alt="HN Top 5"></p>
+<p><img src=img/img2.png alt="HN Top 5"></p>
 <p>So my returned response was (I&#39;ve truncated to only five results):</p>
 <pre><code class="language-json">{
   &quot;url&quot;: &quot;https://news.ycombinator.com/&quot;,
