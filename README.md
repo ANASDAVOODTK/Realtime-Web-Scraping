@@ -1,6 +1,5 @@
-# Realtime-Web-Scraping-
+# Realtime-Web-Scraping
 Scrape Webpages using JS and Autocode
-
 
 <!DOCTYPE html>
 <html>
